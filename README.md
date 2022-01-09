@@ -1,5 +1,5 @@
 This project is created by ROHAN.
 
 The dataset used in the project is public air pollution dataset ,china ,beijing.
-We have done time series analysis, forecasting and modelling.
+I have done time series analysis, forecasting and modelling.
 
